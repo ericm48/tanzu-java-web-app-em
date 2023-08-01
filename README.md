@@ -1,14 +1,10 @@
 
-# Welcome to the tanzu-java-web-app-em Git Repo! 
+# Welcome to the tanzu-java-web-app-em Git Repo! -BRANCH: MAIN
 
 This repo contains artifacts for TAP Projects (Version by-branch).
 
 
-## hello-spring-controller project
-
-## blue-green-deploy project
-
-## hello-steel-controller-basic project 
+## tanzu-java-web-app project 
 
 ## Notes:
 - 31-Jul-2023:
